@@ -11,9 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{02EA
 		04.SeedData.sql = 04.SeedData.sql
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{807ACB4A-855C-4DFB-91BB-F4F005394D1E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{807ACB4A-855C-4DFB-91BB-F4F005394D1E}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\ProductsDB\ProductsDB.png = ..\..\..\ProductsDB\ProductsDB.png
+		ProductsDB.png = ProductsDB.png
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
